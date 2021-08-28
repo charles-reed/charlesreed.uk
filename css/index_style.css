@@ -1,6 +1,5 @@
 html {
   font-family: Helvetica Neue, Sans-Serif;
-  font-weight: 100;
   background: #e6e6e6;
 }
 
@@ -21,6 +20,7 @@ h1 {
 
 footer {
   text-align: center;
+	font-weight: 100;
   color: #333333;
   background: #e6e6e6;
   position: fixed;
